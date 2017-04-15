@@ -1,0 +1,12 @@
+
+Team 6
+Password: spwroe
+
+Kevin Hsieh 		khsie003 861054367
+Jonathan Wong-Lam 	jwong053 861057138
+
+compile with -lcrypto -pthread flags
+
+threads used: 26
+CPU Model:  RD890 Northbridge only dual slot (2x16) PCI-e GFX Hydra part (rev 02) //tested on well.cs.ucr.edu
+Throughput: 12000
